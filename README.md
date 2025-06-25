@@ -1,4 +1,4 @@
-## AWS CodeBuild User Guide
+## AWS CodeBuild User Guide 
 
 The open source version of the AWS CodeBuild docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 
